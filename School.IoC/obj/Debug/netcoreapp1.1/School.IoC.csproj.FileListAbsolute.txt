@@ -1,0 +1,15 @@
+C:\Users\marce\documents\visual studio 2017\Projects\TISchool\School.IoC\bin\Debug\netcoreapp1.1\School.IoC.deps.json
+C:\Users\marce\documents\visual studio 2017\Projects\TISchool\School.IoC\bin\Debug\netcoreapp1.1\School.IoC.dll
+C:\Users\marce\documents\visual studio 2017\Projects\TISchool\School.IoC\bin\Debug\netcoreapp1.1\School.IoC.pdb
+C:\Users\marce\documents\visual studio 2017\Projects\TISchool\School.IoC\bin\Debug\netcoreapp1.1\School.AppServices.dll
+C:\Users\marce\documents\visual studio 2017\Projects\TISchool\School.IoC\bin\Debug\netcoreapp1.1\School.Data.dll
+C:\Users\marce\documents\visual studio 2017\Projects\TISchool\School.IoC\bin\Debug\netcoreapp1.1\School.Domain.dll
+C:\Users\marce\documents\visual studio 2017\Projects\TISchool\School.IoC\bin\Debug\netcoreapp1.1\School.DomainServices.dll
+C:\Users\marce\documents\visual studio 2017\Projects\TISchool\School.IoC\bin\Debug\netcoreapp1.1\School.AppServices.pdb
+C:\Users\marce\documents\visual studio 2017\Projects\TISchool\School.IoC\bin\Debug\netcoreapp1.1\School.Data.pdb
+C:\Users\marce\documents\visual studio 2017\Projects\TISchool\School.IoC\bin\Debug\netcoreapp1.1\School.Domain.pdb
+C:\Users\marce\documents\visual studio 2017\Projects\TISchool\School.IoC\bin\Debug\netcoreapp1.1\School.DomainServices.pdb
+C:\Users\marce\documents\visual studio 2017\Projects\TISchool\School.IoC\obj\Debug\netcoreapp1.1\School.IoC.csprojResolveAssemblyReference.cache
+C:\Users\marce\documents\visual studio 2017\Projects\TISchool\School.IoC\obj\Debug\netcoreapp1.1\School.IoC.AssemblyInfo.cs
+C:\Users\marce\documents\visual studio 2017\Projects\TISchool\School.IoC\obj\Debug\netcoreapp1.1\School.IoC.dll
+C:\Users\marce\documents\visual studio 2017\Projects\TISchool\School.IoC\obj\Debug\netcoreapp1.1\School.IoC.pdb

@@ -1,0 +1,5 @@
+c:\users\marce\documents\visual studio 2017\Projects\TISchool\School.SQLServer\bin\Debug\School.SQLServer.dacpac
+c:\users\marce\documents\visual studio 2017\Projects\TISchool\School.SQLServer\bin\Debug\School.SQLServer.dll
+c:\users\marce\documents\visual studio 2017\Projects\TISchool\School.SQLServer\bin\Debug\School.SQLServer.pdb
+c:\users\marce\documents\visual studio 2017\Projects\TISchool\School.SQLServer\obj\Debug\School.SQLServer.dll
+c:\users\marce\documents\visual studio 2017\Projects\TISchool\School.SQLServer\obj\Debug\School.SQLServer.pdb

@@ -1,0 +1,7 @@
+C:\Users\marce\documents\visual studio 2017\Projects\TISchool\School.Domain\bin\Debug\netcoreapp1.1\School.Domain.deps.json
+C:\Users\marce\documents\visual studio 2017\Projects\TISchool\School.Domain\bin\Debug\netcoreapp1.1\School.Domain.dll
+C:\Users\marce\documents\visual studio 2017\Projects\TISchool\School.Domain\bin\Debug\netcoreapp1.1\School.Domain.pdb
+C:\Users\marce\documents\visual studio 2017\Projects\TISchool\School.Domain\obj\Debug\netcoreapp1.1\School.Domain.AssemblyInfo.cs
+C:\Users\marce\documents\visual studio 2017\Projects\TISchool\School.Domain\obj\Debug\netcoreapp1.1\School.Domain.dll
+C:\Users\marce\documents\visual studio 2017\Projects\TISchool\School.Domain\obj\Debug\netcoreapp1.1\School.Domain.pdb
+C:\Users\marce\documents\visual studio 2017\Projects\TISchool\School.Domain\obj\Debug\netcoreapp1.1\School.Domain.csprojResolveAssemblyReference.cache
